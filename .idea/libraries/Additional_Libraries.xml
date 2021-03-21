@@ -16,6 +16,7 @@
       <root url="jar://$PROJECT_DIR$/../opencsv-4.0.jar!/" />
       <root url="jar://$PROJECT_DIR$/../json-20201115.jar!/" />
       <root url="jar://$PROJECT_DIR$/../commons-lang3-3.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/opencsv-4.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
